@@ -6,11 +6,11 @@ authors = ["Mohammed Salama <dataubc@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.13"
+python = "^3.0"
 
 [tool.poetry.group.dev.dependencies]
-numpy = "^2.1.2"
-pandas = "^2.2.3"
+numpy = "^2.0"
+pandas = "^2.0"
 
 [build-system]
 requires = ["poetry-core"]
